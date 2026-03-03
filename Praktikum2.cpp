@@ -22,3 +22,10 @@ void Output()
 {
     cout << "Hasilnya = " << LuasPersegi();
 }
+
+// Program Utama
+int main() 
+{ // start
+    Input();
+    Output();
+}//selesai
